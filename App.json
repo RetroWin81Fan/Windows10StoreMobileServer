@@ -1,6 +1,14 @@
 {
   "HeroApps": [
     {
+      "AppId": "",
+      "Title": "Windows Store will be revived",
+      "BannerUrl": "",
+      "Source": "-",
+      "UpdateId": "",
+      "RevisionNumber":  1
+    },
+    {
       "AppId": "disney_magic",
       "Title": "Disney Magic Kingdoms",
       "BannerUrl": "http://store-images.s-microsoft.com/image/apps.46310.13510798886596800.15bd5f20-622b-46d6-810b-505e1e6f6086.c7a951a6-84d7-4827-a7e4-d55d092b4b12",
